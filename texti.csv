@@ -1,12 +1,39 @@
+# skráin inniheldur talningu frá 1 upp í 10 á mismunandi tungumálum 
+
+# tungumálin
 English;French;Latin;Italian;Spanish;German;Mandarin;Hindi;Japanese;Arabic
+
+# Talningin
+
+# núll
 zero;zero;zephyr;cifra;cero;null;ling;shunya;rei;sifr
+
+# einn
 one;un;unus;uno;uno;eins;yi;ek;ichi;wahid
+
+# tveir
 two;deux;duo;due;dos;zwei;er;do;ni;ithnan
+
+# þrír
 three;trois;tres;tre;tres;drei;san;teen;san;thalatha
+
+# fjórir
 four;quatra;quattuor;quattro;cuatro;vier;si;char;shi;arbaa
+
+5
 five;cinq;quinque;cinque;cinco;funf;wu;panch;go;khamsa
+
+6
 six;six;sex;sei;seis;sechs;liu;cheh;roku;sitta
+
+7
 seven;sept;septem;sette;siete;sieben;qi;saat;nana;saba
+
+8
 eight;huit;octo;otto;ocho;acht;ba;aath;hachi;thamaniya
+
+9
 nine;neuf;novem;nove;nueve;neun;jiu;nau;ku;tisa
+
+# tíu
 ten;dix;decem;dieci;diez;zehn;shi;das;ju;ashra
