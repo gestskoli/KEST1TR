@@ -155,3 +155,20 @@ while [ $i -lt 10 ]; do
   i=$(( $i + 1 ))
 done
 ```
+## Innbyggðar breytur
+### ```$?``` niðurstaða síðustu skipunar
+```bash
+[ 1 -ne 1 ]
+# $? inniheldur 1 (villa)
+[ 1 -eq 1 ]
+# $? inniheldur 0 (ekki villa)
+```
+### ```$1```, $2, $3 o.s.frv. eru færibreytur sem hægt er að taka inn þegar skrifta er keyrð.
+```bash
+#!/bin/bash
+echo $1
+```
+þegar svo er kallað á skriftuna ```./skrifta.sh abc``` skrifar hún út abc.
+### ```$EUID``` segir til um hvort notandi er root
+Ef breytan inniheldur 0 er notandi með root réttindi annars ekki.
+
