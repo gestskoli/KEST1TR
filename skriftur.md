@@ -6,7 +6,7 @@ Til að skrifa á skjá er skipunin ```echo``` notuð.
 echo Texti
 echo "Texti með bilum"
 ```
-Ef skrifa á út útkomu úr skipun þar annaðhvort að setja ` utan um skipunina eða $().
+Ef skrifa á út útkomu úr skipun þarf annaðhvort að setja ` utan um skipunina eða $().
 ```bash
 echo "Í dag er `date`"
 echo "Í dag er $(date)"
